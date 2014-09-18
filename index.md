@@ -47,7 +47,7 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
 
 ### B. Foreigner applies for permanent residence
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3999Etoc.asp):
-      * sign the Application to Sponsor, Sponsorship Agreement and Undertaking (IMM 1344) _i.e. the form that was filled out by Sponsor for part A above_,
+      * sign the Application to Sponsor, Sponsorship Agreement and Undertaking (IMM 1344) _(i.e. the form that was filled out by Sponsor for part A above)_,
       * complete the forms included with [The Immigrant's Guide (IMM 3998)](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf) and provide appropriate documentation in support of their application,
          * [Generic Application Form for Canada (IMM 0008)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM0008ENU_2D.pdf)
          * [Additional Dependants/Declaration (IMM 0008DEP)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM0008DEPENU.pdf)
