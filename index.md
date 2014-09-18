@@ -4,6 +4,8 @@ layout: default
 
 # Sponsor Your Spouse
 
+This is a general walk through of the steps that I took when applying for a Canadian Family Sponsorship visa (eligible through marriage).  It was written in 2013.  I'll do my best to keep it updated, but no promises made.
+
 ## [General Steps](http://www.cic.gc.ca/english/immigrate/sponsor/spouse-apply-how.asp#step1)
 
 [Forms](http://www.cic.gc.ca/english/information/applications/fc.asp):
@@ -17,8 +19,8 @@ layout: default
          * [Document Checklist (IMM 5491)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF)
          * [Sponsorship Evaluation (IMM 5481)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5481E.pdf)
          * [Sponsor Questionnaire: (IMM 5540)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5540E.pdf)
-         * [N/A] [Statutory Declaration of Common-law Union (IMM 5409)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5409E.pdf)
-         * [N/A] [Use of a Representative (IMM 5476)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5476E.pdf)
+         * [For common law] [Statutory Declaration of Common-law Union (IMM 5409)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5409E.pdf)
+         * [If using a representative] [Use of a Representative (IMM 5476)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5476E.pdf)
          * [Receipt (IMM 5401)](http://www.cic.gc.ca/english/information/fees/index.asp)
          * _Pro-tip: When filling out applications, if a section does not apply to you, write "Not Applicable" or "NA"_
       * Pay the Fees
@@ -70,7 +72,7 @@ layout: default
       * undergo a medical examination prior to submitting the application (results are valid for 12 months),
       * pass criminal and security verifications,
       * obtain a passport and, in some countries, an exit visa
-      * attend an interview at a Canadian visa office, if required. (Seattle)
+      * attend an interview at a Canadian visa office, if required.
 
 
 1. ### Eligibility Review:
