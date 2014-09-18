@@ -8,7 +8,7 @@ If you notice any mistakes or bad links, feel free to either email me at the add
 
 _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian government. Take any advice with caution.  Be sure to do your due dilligence through researching the Canadian guidelines before submitting any applications or paying any fees._
 
-# Family Sponsorship
+# Spousal/Family Sponsorship
 
 ## [General Steps](http://www.cic.gc.ca/english/immigrate/sponsor/spouse-apply-how.asp#step1)
 
