@@ -6,6 +6,8 @@ This is a general walkthrough of the steps that I took when applying for a Canad
 
 If you notice any mistakes or bad links, feel free to either email me at the address at the bottom of this document or, if you're git/jekyll savvy, make an issue or pull-request to the [github repo](https://github.com/alukach/canada-immigration-tips/).
 
+_Disclaimer: I am not a lawyer or an official of either the US or Canadian government. Take any advice with caution.  Be sure to do your due dilligence through researching the Canadian guidelines before submitting any applications or paying any fees._
+
 # Family Sponsorship
 
 ## [General Steps](http://www.cic.gc.ca/english/immigrate/sponsor/spouse-apply-how.asp#step1)
