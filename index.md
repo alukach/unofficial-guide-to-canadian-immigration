@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Sponsor Your Spouse
+This is a general walkthrough of the steps that I took when applying for a Canadian Family Sponsorship visa (eligible through marriage).  It was written in 2013.  I'll do my best to keep it updated, but no promises made.
 
-This is a general walk through of the steps that I took when applying for a Canadian Family Sponsorship visa (eligible through marriage).  It was written in 2013.  I'll do my best to keep it updated, but no promises made.
+If you notice any mistakes or bad links, feel free to either email me at the address at the bottom of this document or, if you're git/jekyll savvy, make an issue or pull-request to the [github repo](https://github.com/alukach/canada-immigration-tips/).
+
+# Family Sponsorship
 
 ## [General Steps](http://www.cic.gc.ca/english/immigrate/sponsor/spouse-apply-how.asp#step1)
 
