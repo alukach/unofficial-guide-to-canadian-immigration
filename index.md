@@ -14,7 +14,7 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
 
 [Forms](http://www.cic.gc.ca/english/information/applications/fc.asp)
 
-### 1. Canadian applies to be sponsor ([guide](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp))
+### A. Canadian applies to be sponsor ([guide](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp))
    * Length of undertaking is three years after that person becomes a permanent resident. _i.e. The sponsor will be financially responsible for the sponsoree for 3 years_
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp):
       * Gather Documents ([document checklist](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF))
@@ -46,7 +46,7 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
                 </pre>
 
 
-### 1. Foreigner applies for permanent residence
+### B. Foreigner applies for permanent residence
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3999Etoc.asp):
       * sign the Application to Sponsor, Sponsorship Agreement and Undertaking (IMM 1344),
       * complete the forms included with [The Immigrant's Guide (IMM 3998)](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf) and provide appropriate documentation in support of their application,
@@ -79,7 +79,7 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
       * attend an interview at a Canadian visa office, if required.
 
 
-### 1. Eligibility Review:
+### C. Eligibility Review:
    * The visa office will process your application and decide if a visa may be issued to you and your family members. The visa office may require:
       * An Interview: If you need to be interviewed, the visa office will notify you in writing in advance of the date, time and location of the interview as well as of the documents to bring with you.
          * You, your spouse or common-law partner may be asked to come to the interview. The visa officer may ask, among others, about your:
