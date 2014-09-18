@@ -15,7 +15,6 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
 [Forms](http://www.cic.gc.ca/english/information/applications/fc.asp)
 
 ### A. Canadian applies to be sponsor ([guide](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp))
-   * Length of undertaking is three years after that person becomes a permanent resident. _i.e. The sponsor will be financially responsible for the sponsoree for 3 years_
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp):
       * Gather Documents ([document checklist](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF))
       * Complete Application
@@ -102,6 +101,7 @@ Note: The applications for both sponsorship and permanent residence should be fi
 
 
 ## Fun Facts:
+* Length of undertaking is three years after that person becomes a permanent resident. _i.e. The sponsor will be financially responsible for the sponsoree for 3 years_
 * As of October 25, 2012, CIC requires the sponsored spouse or partner to cohabit in a conjugal relationship with their sponsor for a period of two years after the day on which they became a permanent resident.
 * Reason to be refused: the relationship between you and your family members is not genuine or has been entered into for immigration purposes only. For example, you married or entered into a common-law or conjugal partner relationship primarily to obtain permanent residence in Canada;
 * Permanent resident status: If your application is successful, you and your family members will receive permanent resident visas. You will become permanent residents of Canada when you move to Canada within the validity of your visa(s). Some conditions will apply:
