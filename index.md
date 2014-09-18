@@ -20,7 +20,7 @@ layout: default
          * [N/A] [Statutory Declaration of Common-law Union (IMM 5409)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5409E.pdf)
          * [N/A] [Use of a Representative (IMM 5476)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5476E.pdf)
          * [Receipt (IMM 5401)](http://www.cic.gc.ca/english/information/fees/index.asp)
-         * Pro-tip: When filling out applications, if a section does not apply to you, write â€œNot Applicableâ€ or â€œNAâ€
+         * _Pro-tip: When filling out applications, if a section does not apply to you, write "Not Applicable" or "NA"_
       * Pay the Fees
          * Processing (pay when applying):
             * Sponsor: $75
@@ -28,20 +28,22 @@ layout: default
          * Right of Permanent Residence Fee (required later but recommended to be paid along with processing fees to reduce processing time):
             * Principal applicant: $490
          * How: [Online](https://eservicesak.cic.gc.ca/epay/welcome.do?lang=en)
-               * Submit Application
-                  * Sponsor (Canadian resident) needs to submit, not sponsoree (foreign resident)
-                  * Mail to:
-                     Sponsorship: (spousal)
-                     Case Processing Centre â”€ Mississauga
-                     P.O. Box 3000, Station A
-                     Mississauga, Ontario
-                     L5A 4N6
+           * Submit Application
+              * Sponsor (Canadian resident) needs to submit, not sponsoree (foreign resident)
+              * Mail to:
+                <pre>
+                Sponsorship: (spousal)
+                Case Processing Centre - Mississauga
+                P.O. Box 3000, Station A
+                Mississauga, Ontario
+                L5A 4N6
+                </pre>
 
 
 1. ### American applies for permanent residence.
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3999Etoc.asp):
       * sign the Application to Sponsor, Sponsorship Agreement and Undertaking (IMM 1344),
-      * complete the forms included with [The Immigrantâ€™s Guide (IMM 3998)](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf) and provide appropriate documentation in support of their application,
+      * complete the forms included with [The Immigrant's Guide (IMM 3998)](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf) and provide appropriate documentation in support of their application,
          * [Generic Application Form for Canada (IMM 0008)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM0008ENU_2D.pdf)
          * [Additional Dependants/Declaration (IMM 0008DEP)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM0008DEPENU.pdf)
          * [Schedule A - Background/Declaration (IMM 5669)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5669E.pdf)
@@ -57,11 +59,11 @@ layout: default
          * Proof of Relationship to Sponsor
             * If you are being sponsored by your spouse, common-law partner or conjugal partner, you must send evidence of the relationship between you and your sponsor such as wedding photos or proof that you are partners, letters between you and your sponsor, and telephone bills showing contact between you and your sponsor.
             * Note: Photos must be loose. Do not send them in binders, albums, frames or other such containers. Do not send video discs or video cassettes. Do not send musical greeting cards or other similar documents containing electronic or mechanical devices.
-            * Proof of your sponsorâ€™s visits such as airline ticket coupons, boarding passes, copies of pages of your sponsor's passport showing entry/exit stamps.
+            * Proof of your sponsor's visits such as airline ticket coupons, boarding passes, copies of pages of your sponsor's passport showing entry/exit stamps.
          * [Police Certificates and Clearance](http://www.cic.gc.ca/english/information/security/police-cert/index.asp)
          * Proof of Medical Examination
-            * Copy 2 of the Medical Report-Section A that the DMP will sign and give to you when you undergo the medical examination. See Appendix C (of [Immigrantâ€™s Guide](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf)) for additional information.
-            * Your own doctor cannot do the medical examination. You must see a physician on Canadaâ€™s list of [Panel Physicians](http://www.cic.gc.ca/dmp-md/medical.aspx).  _Pro-tip: In my experience, this was cheaper if done in Canada_
+            * Copy 2 of the Medical Report-Section A that the DMP will sign and give to you when you undergo the medical examination. See Appendix C (of [Immigrant's Guide](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf)) for additional information.
+            * Your own doctor cannot do the medical examination. You must see a physician on Canada's list of [Panel Physicians](http://www.cic.gc.ca/dmp-md/medical.aspx).  _Pro-tip: In my experience, this was cheaper if done in Canada_
             * Medical examination results are valid for 12 months from the date of the medical examination
          * Photos
             * Supply four (4) recent photos. Follow the instructions in your guide (see Photos in section on completing the Application for Permanent Residence in Canada) and in Appendix B: Photo Specifications.

@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an American who married a Canadian and immigrated to Canada in 2012.
+The Canadian Immigration documentation leaves a bit to be desired so, during
+the process, I produced a guide to help myself.  This is that guide.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Please note that **I am not a lawyer** and that **this guide is not comprehensive**
+and **may be out of date**.  Simply stated, check the official documentation from
+the Canadian Government website before submitting your application.
