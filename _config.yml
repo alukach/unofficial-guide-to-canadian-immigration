@@ -3,8 +3,8 @@ title: An Unofficial Guide To Canadian Immigration
 email: anthonylukach+immigration@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     A guide to the Canadian Family Sponsorship Visa.
-baseurl: "/canada-immigration-tips" # the subpath of your site, e.g. /blog/
-url: "http://alukach.com/canada-immigration-tips" # the base hostname & protocol for your site
+baseurl: "/unofficial-guide-to-canadian-immigration" # the subpath of your site, e.g. /blog/
+url: "http://alukach.com/unofficial-guide-to-canadian-immigration" # the base hostname & protocol for your site
 twitter_username: anthonylukach
 # github_username:  jekyll
 
