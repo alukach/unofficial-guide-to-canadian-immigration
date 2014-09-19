@@ -14,8 +14,8 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
 
 ### A. Canadian applies to be sponsor ([guide](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp), [forms](http://www.cic.gc.ca/english/information/applications/fc.asp))
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp):
-      * Gather Documents ([document checklist](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF))
-      * Complete Application
+      * [Gather Documents](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp#3900E3) ([document checklist](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF))
+      * [Complete Application](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp#3900E4)
          * [Application to Sponsor, Sponsorship Agreement  and Undertaking (IMM 1344)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM1344E.PDF)
          * [Document Checklist (IMM 5491)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF)
          * [Sponsorship Evaluation (IMM 5481)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5481E.pdf)
@@ -24,18 +24,18 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
          * [If using a representative] [Use of a Representative (IMM 5476)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5476E.pdf)
          * [Receipt (IMM 5401)](http://www.cic.gc.ca/english/information/fees/index.asp)
          * _Pro-tip: When filling out applications, if a section does not apply to you, write "Not Applicable" or "NA"_
-      * Pay the Fees
+      * [Pay the Fees](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp#pay-fee)
          * Processing (pay when applying):
             * Sponsor: $75
             * Principal applicant: $475
          * Right of Permanent Residence Fee _(required later but recommended to be paid along with processing fees to reduce processing time)_:
             * Principal applicant: $490
          * How: [Online](https://eservicesak.cic.gc.ca/epay/welcome.do?lang=en)
-     * Submit Application
+     * [Submit Application](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp#3900E6)
         * Sponsor (Canadian resident) needs to submit, not sponsoree (foreign resident)
         * Mail to:
           <pre>
-          Sponsorship: (spousal)
+          Sponsorship: (spousal OR common-law OR conjugal OR dependent children sponsorship)
           Case Processing Centre - Mississauga
           P.O. Box 3000, Station A
           Mississauga, Ontario
