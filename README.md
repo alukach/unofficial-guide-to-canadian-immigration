@@ -6,4 +6,4 @@ This is a general walkthrough of the steps that I took when applying for a Canad
 
 If you notice any mistakes or bad links, feel free to make an issue or pull-request.
 
-_Disclaimer: I am neither a lawyer nor an official of either the US or Canadian government. Take any advice with caution. Be sure to do your due dilligence through researching the Canadian guidelines before submitting any applications or paying any fees._
+_Disclaimer: I am neither a lawyer nor an official of either the US or Canadian government. Take any advice with caution. Be sure to do your due dilligence by researching the Canadian guidelines before submitting any applications or paying any fees._
