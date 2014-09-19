@@ -33,16 +33,16 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
          * Right of Permanent Residence Fee _(required later but recommended to be paid along with processing fees to reduce processing time)_:
             * Principal applicant: $490
          * How: [Online](https://eservicesak.cic.gc.ca/epay/welcome.do?lang=en)
-           * Submit Application
-              * Sponsor (Canadian resident) needs to submit, not sponsoree (foreign resident)
-              * Mail to:
-                <pre>
-                Sponsorship: (spousal)
-                Case Processing Centre - Mississauga
-                P.O. Box 3000, Station A
-                Mississauga, Ontario
-                L5A 4N6
-                </pre>
+     * Submit Application
+        * Sponsor (Canadian resident) needs to submit, not sponsoree (foreign resident)
+        * Mail to:
+          <pre>
+          Sponsorship: (spousal)
+          Case Processing Centre - Mississauga
+          P.O. Box 3000, Station A
+          Mississauga, Ontario
+          L5A 4N6
+          </pre>
 
 
 ### B. Foreigner applies for permanent residence
