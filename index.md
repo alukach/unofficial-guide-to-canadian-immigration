@@ -47,8 +47,8 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
 
 ### B. Foreigner applies for permanent residence
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3999Etoc.asp):
-      * sign the Application to Sponsor, Sponsorship Agreement and Undertaking (IMM 1344) _(i.e. the form that was filled out by Sponsor for part A above)_,
-      * complete the forms included with [The Immigrant's Guide (IMM 3998)](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf) and provide appropriate documentation in support of their application,
+      * Sign the Application to Sponsor, Sponsorship Agreement and Undertaking (IMM 1344) _(i.e. the form that was filled out by Sponsor for part A above)_,
+      * Complete the forms included with [The Immigrant's Guide (IMM 3998)](http://www.cic.gc.ca/english/pdf/kits/guides/3910e.pdf) and provide appropriate documentation in support of their application,
          * [Generic Application Form for Canada (IMM 0008)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM0008ENU_2D.pdf)
          * [Additional Dependants/Declaration (IMM 0008DEP)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM0008DEPENU.pdf)
          * [Schedule A - Background/Declaration (IMM 5669)](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5669E.pdf)
@@ -72,10 +72,10 @@ _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian 
             * Medical examination results are valid for 12 months from the date of the medical examination
          * Photos
             * Supply four (4) recent photos. Follow the instructions in your guide (see Photos in section on completing the Application for Permanent Residence in Canada) and in Appendix B: Photo Specifications.
-      * undergo a medical examination prior to submitting the application (results are valid for 12 months),
-      * pass criminal and security verifications,
-      * obtain a passport and, in some countries, an exit visa
-      * attend an interview at a Canadian visa office, if required.
+      * Undergo a medical examination prior to submitting the application (results are valid for 12 months),
+      * Pass criminal and security verifications,
+      * Obtain a passport and, in some countries, an exit visa
+      * Attend an interview at a Canadian visa office, if required.
 
 
 ### C. Eligibility Review:
