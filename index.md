@@ -10,11 +10,9 @@ If you notice any mistakes or bad links, feel free to either email me at the add
 
 _Disclaimer: I am neither a lawyer nor an official of either the US or Canadian government. Take any advice with caution.  Be sure to do your due dilligence by researching the Canadian guidelines before submitting any applications or paying any fees._
 
-[Forms](http://www.cic.gc.ca/english/information/applications/fc.asp)
-
 ## [General Steps](http://www.cic.gc.ca/english/immigrate/sponsor/spouse-apply-how.asp#step1)
 
-### A. Canadian applies to be sponsor ([guide](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp))
+### A. Canadian applies to be sponsor ([guide](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp), [forms](http://www.cic.gc.ca/english/information/applications/fc.asp))
    * [Steps](http://www.cic.gc.ca/english/information/applications/guides/3900ETOC.asp):
       * Gather Documents ([document checklist](http://www.cic.gc.ca/english/pdf/kits/forms/IMM5491E.PDF))
       * Complete Application
